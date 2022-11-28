@@ -1,1 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=merhametsize)](https://github.com/merhametsize/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=merhametsize&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&langs_count=5&theme=tokyonight)]()
