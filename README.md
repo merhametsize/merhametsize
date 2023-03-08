@@ -3,7 +3,7 @@
 I am a Computer Engineering student at [Politecnico di Torino](https://www.polito.it/).
 My master degree is focused on AI & Data Analytics.
 
-- 🔭 I’m currently working on: semantic segmentation for self-driving cars
+- 🔭 I’m currently working on: the prototype of a videogame at PoliTo as a programmer, composer and sound designer
 - 🌱 I’m currently learning: too much stuff...
 - 📫 How to reach me: IG: gabrigabrys, linkedin: Gabriele Cassetta
 - ⚡ Fun fact: I am a distant relative of the pope
