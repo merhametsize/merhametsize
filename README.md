@@ -5,7 +5,7 @@ My master degree is focused on AI & Data Analytics.
 
 - 🔭 I’m currently working on: 
   * The prototype of a videogame at PoliTo as a programmer, composer and sound designer
-  * Anomaly detection for industrial robot
+  * Anomaly detection with adversarial autoencoders
 - 🌱 I’m currently learning: too much stuff...
 - 📫 How to reach me: IG: gabrigabrys, linkedin: Gabriele Cassetta
 - ⚡ Fun fact: I am a distant relative of the pope
