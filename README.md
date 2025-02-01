@@ -7,7 +7,7 @@ My master degree focused on AI & Data Analytics.
   * The prototype of an indie videogame as a programmer, composer and sound designer
   * Critical heat flux prediction in nuclear reactors at CEA Saclay
   * My personal music project
-- 🌱 I’m currently learning: too much stuff
+- 🌱 I’m currently learning: Turkish, Finnish, Romanian and trying to further improve my French
 - 📫 How to reach me: linkedin --> Gabriele Cassetta
 - ⚡ Fun fact: I am a distant relative of the pope
 
