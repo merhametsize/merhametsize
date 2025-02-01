@@ -1,13 +1,14 @@
 
 ## About me
-I am a Computer Engineering student at [Politecnico di Torino](https://www.polito.it/).
-My master degree is focused on AI & Data Analytics.
+I studied Computer Engineering student at [Politecnico di Torino](https://www.polito.it/).
+My master degree focused on AI & Data Analytics.
 
 - 🔭 I’m currently working on: 
-  * The prototype of a videogame at PoliTo as a programmer, composer and sound designer
+  * The prototype of an indie videogame as a programmer, composer and sound designer
   * Critical heat flux prediction in nuclear reactors at CEA Saclay
-- 🌱 I’m currently learning: lots of stuff
-- 📫 How to reach me: linkedin: Gabriele Cassetta
+  * My personal music project
+- 🌱 I’m currently learning: too much stuff
+- 📫 How to reach me: linkedin --> Gabriele Cassetta
 - ⚡ Fun fact: I am a distant relative of the pope
 
 [![merhametsize's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&theme=dark)](https://github.com/merhametsize/github-readme-stats)
