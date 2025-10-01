@@ -7,9 +7,9 @@ My master degree focused on AI & Data Analytics.
   * The prototype of an indie videogame as a programmer, composer and sound designer
   * Critical heat flux prediction in nuclear reactors at CEA Saclay, France
   * My personal music project
-- 🌱 I’m currently learning: Turkish, Finnish, Romanian and trying to further improve my French
+- 🌱 I’m currently learning: Turkish, Finnish, Romanian (very slowly) and trying to further improve my French
 - 📫 How to reach me: linkedin --> Gabriele Cassetta
-- ⚡ Fun fact: I am a distant relative of the pope and I also speak Piedmontese
+- ⚡ Fun fact: I am a distant relative of the pope and I speak Piedmontese
 
 [![merhametsize's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&theme=dark)](https://github.com/merhametsize/github-readme-stats)
 
