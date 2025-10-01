@@ -4,7 +4,7 @@ I studied Computer Engineering at [Politecnico di Torino](https://www.polito.it/
 My master degree focused on AI & Data Analytics.
 
 - 🔭 I’m currently working on:
-  * Critical heat flux prediction in nuclear reactors at CEA Saclay, France
+  * Critical heat flux prediction in nuclear reactors at [CEA Saclay, France](https://www.cea.fr/english/Pages/Welcome.aspx)
   * The prototype of an indie videogame as a composer and sound designer
   * My personal music project
 - 🌱 I’m currently learning: Turkish, Finnish, Romanian (very slowly) and trying to further improve my French
