@@ -8,7 +8,7 @@ My master degree focused on AI & Data Analytics.
   * The prototype of an indie videogame as a composer and sound designer, [Komoru](https://thefenixcode.itch.io/komoru)
   * My personal music project
 - 🌱 I’m currently learning: Turkish, Finnish, Romanian (very slowly) and trying to further improve my French
-- ⚡ Fun fact: I am a distant relative of the pope and I speak Piedmontese
+- ⚡ Fun fact: I am a distant relative of Pope Francis and I speak Piedmontese
 - 😄 Pronouns: he/him. My name is Gabriele, which is a male name in Italian. Lots of people in France address me as madame Cassetta in emails...
 
 [![merhametsize's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&theme=dark)](https://github.com/merhametsize/github-readme-stats)
