@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merhametsize/merhametsize/main/cosmos.svg" alt="Cosmic banner" width="100%" />
+  <img src="./cosmos.svg" alt="Cosmic banner" width="100%" />
 </p>
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=About+me)](https://git.io/typing-svg)
