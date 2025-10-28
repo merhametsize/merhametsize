@@ -30,6 +30,7 @@ jobs:
 
           # Include forked repos
           include-forks: 'true'
+          include-other-repos: 'true'
           
           # Specify which sections to include and their order
           category-order: 'contributions,repositories,languages'
