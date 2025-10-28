@@ -1,0 +1,44 @@
+# .github/workflows/update-stats.yml
+
+name: Update GitHub Stats
+
+# This workflow runs once a day at 3:00 AM UTC
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the code
+      - uses: actions/checkout@v4
+      
+      # Step 2: Generate the custom SVG with Language Stats
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v2 # Use a dedicated user stats action
+        with:
+          # This token is automatically provided by GitHub and has necessary permissions
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Sets the file name and directory for the generated image
+          output-directory: images
+          output-filename: userstats.svg
+          
+          # Generate only the language distribution chart for a cleaner look
+          generate-languages-stats: yes
+          generate-contributions-stats: no
+          generate-repository-stats: no
+          
+          # Optional: Customize the theme or colors
+          theme: dark
+
+      # Step 3: Commit the new SVG file back to the repository
+      - name: Commit and Push new SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '📊 Update language statistics SVG'
+          # Targets the generated image file
+          files: images/userstats.svg
