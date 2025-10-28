@@ -16,3 +16,9 @@ My master degree focused on AI & Data Analytics.
 - 😄 Pronouns: he/him. My name is Gabriele, which is a male name in Italian. Lots of people in France address me as madame Cassetta in emails...
 
 ![My Language Distribution](github-stats.svg)
+
+Click hear to watch Komoru's trailer (with my original music and narrating voice!)
+
+<a href="https://youtu.be/puALdBBP0Ws">
+    <img src="https://img.youtube.com/vi/puALdBBP0Ws/maxresdefault.jpg" alt="Watch the video" width="350" style="max-width: 100%;" />
+</a>
