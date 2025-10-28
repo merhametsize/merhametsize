@@ -5,7 +5,7 @@ name: Update GitHub Stats
 # This workflow runs once a day at 3:00 AM UTC
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 14 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
