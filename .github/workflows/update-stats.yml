@@ -27,6 +27,9 @@ jobs:
         with:
           # Specify the output file name and location
           image-file: 'github-stats.svg' 
+
+          # Include forked repos
+          include-forks: 'true'
           
           # Specify which sections to include and their order
           category-order: 'contributions,repositories,languages'
