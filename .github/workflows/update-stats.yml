@@ -18,7 +18,7 @@ jobs:
       
       # Step 2: Generate the custom SVG with Language Stats
       - name: Generate the user stats image
-        uses: cicirello/user-statistician@v2 # Use a dedicated user stats action
+        uses: cicirello/user-statistician@v1 # Use a dedicated user stats action
         with:
           # This token is automatically provided by GitHub and has necessary permissions
           github-token: ${{ secrets.GITHUB_TOKEN }}
