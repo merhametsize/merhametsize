@@ -15,6 +15,8 @@ My master degree focused on AI & Data Analytics.
 - ⚡ Fun fact: I am a distant relative of Pope Francis and I speak Piedmontese
 - 😄 Pronouns: he/him. My name is Gabriele, which is a male name in Italian. Lots of people in France address me as madame Cassetta in emails...
 
+![My Language Distribution](images/userstats.svg)
+
 [![merhametsize's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&theme=dark)](https://github.com/merhametsize/github-readme-stats)
 
 <!--
