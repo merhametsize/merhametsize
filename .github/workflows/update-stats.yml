@@ -1,44 +1,41 @@
-# .github/workflows/update-stats.yml
+name: GitHub Stats Card Generator
 
-name: Update GitHub Stats
-
-# This workflow runs once a day at 3:00 AM UTC
 on:
   schedule:
-    - cron: '0 14 * * *'
-  # Allows you to run this workflow manually from the Actions tab
+    # Runs at 3 AM UTC every day
+    - cron: '0 3 * * *'
   workflow_dispatch:
+
+# This permission is essential for the action to commit the generated SVG back to your repo
+permissions:
+  contents: write
 
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Check out the code
-      - uses: actions/checkout@v4
-      
-      # Step 2: Generate the custom SVG with Language Stats
+      # Step 1: Check out the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4 
+        
+      # Step 2: Generate the User Stats Image
       - name: Generate the user stats image
-        uses: cicirello/user-statistician@v1 # Use a dedicated user stats action
+        uses: cicirello/user-statistician@v1
+        env:
+          # Pass the GitHub Token as an environment variable
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
         with:
-          # This token is automatically provided by GitHub and has necessary permissions
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Specify the output file name and location
+          image-file: 'github-stats.svg' 
           
-          # Sets the file name and directory for the generated image
-          output-directory: images
-          output-filename: userstats.svg
+          # Specify which sections to include and their order
+          category-order: 'contributions,repositories,languages'
           
-          # Generate only the language distribution chart for a cleaner look
-          generate-languages-stats: yes
-          generate-contributions-stats: no
-          generate-repository-stats: no
+          # Use a dark theme
+          colors: 'dark-dimmed' 
           
-          # Optional: Customize the theme or colors
-          theme: dark
-
-      # Step 3: Commit the new SVG file back to the repository
-      - name: Commit and Push new SVG
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: '📊 Update language statistics SVG'
-          # Targets the generated image file
-          files: images/userstats.svg
+          # Set a custom title for the card
+          custom-title: 'My GitHub Activity' 
+          
+          # Tell the action to commit the new image to the repo
+          commit-and-push: 'true'
