@@ -19,4 +19,4 @@ Click hear to watch Komoru's trailer (with my original self-produced music and m
     <img src="https://img.youtube.com/vi/puALdBBP0Ws/maxresdefault.jpg" alt="Watch the video" width="350" style="max-width: 100%;" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=merhametsize&style=flat-square) 
+![Page views since 3Nov2025](https://komarev.com/ghpvc/?username=merhametsize&style=flat-square) 
