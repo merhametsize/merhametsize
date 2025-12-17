@@ -10,7 +10,8 @@ Bondì fieuj.
   * The prototype of an indie videogame as a composer and sound designer, [Komoru](https://thefenixcode.itch.io/komoru)
   * My personal music project
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&layout=compact&theme=dracula&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&layout=compact&theme=dracula&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=merhametsize&layout=compact&theme=dracula&size_weight=0.5&count_weight=0.5&langs_count=10
+)
 
 
 Click hear to watch Komoru's trailer (with my original self-produced music and my narrating voice!)
