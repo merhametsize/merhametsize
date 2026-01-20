@@ -6,7 +6,7 @@
 
 Bondì fieuj.
 - 🔭 I’m currently working on:
-  * ML in nuclear engineering at [CEA Saclay, France](https://www.cea.fr/english/Pages/Welcome.aspx)
+  * My first chess engine (in Rust)
   * The prototype of an indie videogame as a composer and sound designer, [Komoru](https://thefenixcode.itch.io/komoru)
   * My personal music project
 
